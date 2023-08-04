@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "title": "Poco X3 Pro 5G",
+        "price": 13269000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "1f8bb150b142112d1f7560d5313d1d73ca67aa28_1677060264.webp"
+    },
+    {
+        "id":2,
+        "title": "Redmi Note 12",
+        "price": 12849000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "1bd92e5b818ccff86049765b829ff116f7a3a586_1684911875.webp"
+    },
+    {
+        "id":3,
+        "title": "Honor X9a",
+        "price": 13399000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "f16c95c9de79fb069e8d51853334c5f7bf87eace_1683464854.webp"
+    },
+    {
+        "id":4,
+        "title": "Galaxy A53 5G",
+        "price": 14900000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "1f8bb150b142112d1f7560d5313d1d73ca67aa28_1677060264.webp"
+    },
+    {
+        "id":5,
+        "title": "Poco X5 5G",
+        "price": 10700000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "b48890a528000b8ef2dba18cbaa6f9ad8e0f8cca_1678630531.webp"
+    },
+    {
+        "id":6,
+        "title": "Redmi Note 11",
+        "price": 12899000,
+        "ram": 8,
+        "storage": 256,
+        "network": "5G",
+        "thumbnail": "feaa219132085f34d5f9d09b6bef8bb58173b499_1656423671.webp"
+    }
+
+]
